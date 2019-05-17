@@ -1,19 +1,19 @@
 # HTML Links
 
-## Problem Statement
+## Learning Goals
+
+1. Recognize how `a` tags are structured and implemented
+2. Create different types of links with the `a` tag
+
+## Introduction
 
 Links, also known as _hyperlinks_, put the _web_ in _World Wide Web_: many
 millions of HTML pages, connected together through _links_. In this lab, we will
 be discussing links in HTML and applying what we've learned.
 
-## Objectives
+## Recognize How `a` Tags Are Structured And Implemented
 
-1. Review how `a` tags are structured and implemented
-2. Practice the use of `a` tags to create different types of links
-
-## Review How `a` Tags Are Structured And Implemented
-
-### Introduce the Anchor Link Tag
+### The Anchor Link Tag
 
 To create a link, we use the _anchor link_ tag, written as `<a>`.
 The `<a>` tag requires two things:
@@ -43,7 +43,7 @@ Say this link was on `index.html`, the home page of a website you had built.
 When a site visitor clicks the above link, the browser knows to look for a file
 called `about.html` that is located in the same folder as `index.html`.
 
-### Introduce the Target Attribute
+### The Target Attribute
 
 The `target` attribute can be added along side `href` and has a specific use:
 setting this attribute to be `target='_blank'` will cause the browser to open a
@@ -54,7 +54,7 @@ on:
 <a href="https://www.google.com" target="_blank">Google</a>
 ```
 
-## Practice The Use Of `a` Tags To Create Different Types Of Links
+## Create Different Types of Links With the `a` Tag
 
 Let's practice creating links. Take a look at `index.html` for some additional
 guidance. To complete this lab you must:
