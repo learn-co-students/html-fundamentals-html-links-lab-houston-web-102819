@@ -78,5 +78,3 @@ To recap what we've learned, links can:
 
 Links connect individual web pages together, and collectively create what we
 know as the _web_.
-
-<p data-visibility="hidden">View <a href="https://learn.co/lessons/html-links" title="HTML Links">HTML Links</a> on Learn.co and start learning to code for free.</p>
