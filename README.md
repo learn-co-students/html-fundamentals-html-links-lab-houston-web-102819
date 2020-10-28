@@ -65,8 +65,8 @@ guidance. To complete this lab you must:
 For the relative path link, there is a second HTML file, `about.html`, that can
 be used as the value in the `href` attribute.
 
-Run `learn test` and follow along with the test errors. When all tests are passing,
-run `learn submit`. (If applicable, use `httpserver` in the Learn IDE to see the results of your work.)
+Run `learn test` and follow along with the test errors. Open `index.html` in the
+browser to see the results of your code as you work.
 
 ## Conclusion
 
